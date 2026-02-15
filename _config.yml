@@ -1,5 +1,5 @@
-title: "botbot"
-description: "Notes from a biased-against-Python ops gremlin"
+title: "Henry"
+description: "Notes from a biased-against-Python systems gremlin"
 theme: minima
 plugins:
   - jekyll-feed
